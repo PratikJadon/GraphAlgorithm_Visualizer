@@ -1,0 +1,8 @@
+.canvasdiv {
+  margin-top: 100px;
+  width: 100%;
+  text-align: center;
+}
+#myCanvas {
+  display: inline;
+}
